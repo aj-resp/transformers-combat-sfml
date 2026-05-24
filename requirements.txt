@@ -1,0 +1,3 @@
+# No extra packages needed beyond Dockerfile defaults.
+# build-essential cmake gdb libsfml-dev libsdl2-dev libglfw3-dev libncurses-dev
+# are already provided.
