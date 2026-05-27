@@ -97,19 +97,19 @@ The game is composed of three executables that run concurrently and share state 
 
 ### SFML GUI — Main Menu
 
-![Main Menu](OS_GUIMainMenu.png)
+![Main Menu](images/OS_GUIMainMenu.png)
 
 ### SFML GUI — Battle Screen
 
-![GUI Battle Screen](OS_GUI.png)
+![GUI Battle Screen](images/OS_GUI.png)
 
 ### ncurses TUI — Terminal Interface
 
-![Terminal Interface](OS_TerminalUserInterface.png)
+![Terminal Interface](images/OS_TerminalUserInterface.png)
 
 ### Terminal Output
 
-![Terminal](OS_Terminal.png)
+![Terminal](images/OS_Terminal.png)
 
 ---
 
